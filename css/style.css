@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background: #f3f3f3;
+}
+
+.col-xs-1,
+.col-sm-1,
+.col-md-1,
+.col-lg-1,
+.col-xs-2,
+.col-sm-2,
+.col-md-2,
+.col-lg-2,
+.col-xs-3,
+.col-sm-3,
+.col-md-3,
+.col-lg-3,
+.col-xs-4,
+.col-sm-4,
+.col-md-4,
+.col-lg-4,
+.col-xs-5,
+.col-sm-5,
+.col-md-5,
+.col-lg-5,
+.col-xs-6,
+.col-sm-6,
+.col-md-6,
+.col-lg-6,
+.col-xs-7,
+.col-sm-7,
+.col-md-7,
+.col-lg-7,
+.col-xs-8,
+.col-sm-8,
+.col-md-8,
+.col-lg-8,
+.col-xs-9,
+.col-sm-9,
+.col-md-9,
+.col-lg-9,
+.col-xs-10,
+.col-sm-10,
+.col-md-10,
+.col-lg-10,
+.col-xs-11,
+.col-sm-11,
+.col-md-11,
+.col-lg-11,
+.col-xs-12,
+.col-sm-12,
+.col-md-12,
+.col-lg-12 {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.navbar.black-wrap {
+    background: #3b3e47;
+    border-radius: 0;
+    margin: 0;
+}
+
+.header-secondary p {
+    margin: 0;
+    text-align: center;
+    padding: 10px 0;
+    font-weight: 600;
+    font-size: 18px;
+    box-shadow: 0 0 10px 4px #efecec;
+    background: #fff;
+}
+
+.i-green {
+    background: #78c24f
+}
+
+.sapphire {
+    background: #f06292;
+}
+
+.blue {
+    background: #45bbdf;
+}
+
+.purple {
+    background: #8892d7;
+}
+
+.top-boxes-wrapper .box {
+    float: left;
+    width: 100%;
+    color: #fff;
+    border-radius: 4px;
+    padding: 30px 0;
+    margin-bottom: 10px;
+}
+
+.top-boxes-wrapper .box .icon-wrapper {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.top-boxes-wrapper .box .content-wrapper {
+    float: left;
+    width: 75%;
+}
+
+p {
+    margin: 0;
+    font-weight: 500;
+}
+
+.top-boxes-wrapper {
+    margin: 30px 0 10px;
+    float: left;
+    width: 100%;
+}
+
+.top-boxes-wrapper .box .content-wrapper h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.box-detail .para-wrap p {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.top-boxes-wrapper .box .icon-wrapper .fa {
+    background: #f7f7f77a;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 18px;
+    padding: 15px 0 0px;
+}
+
+.top-boxes-wrapper .box .content-wrapper p {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.secon-boxes-wrapper {
+    float: left;
+    width: 100%;
+}
+
+.secon-boxes-wrapper .box-content-wrapper {
+    padding: 10px;
+    float: left;
+    width: 100%;
+    overflow-x: auto;
+    height: 150px;
+}
+.box.small-box .box-content-wrapper {
+    height: 110px;
+}
+ 
+.box.large-box .box-content-wrapper {
+    height: 318px;
+}
+.secon-boxes-wrapper .box {
+    background: #fff;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    float: left;
+    width: 100%;
+    border: 1px solid #e8e8e8;
+    box-shadow: 0 0 6px 3px #e8e8e8;
+}
+
+.box-heading p {
+    margin: 0;
+    background: #244ca4;
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 5px 0px;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+.box-detail .icons-wrap .fa {
+    background: #f7f7f7;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 18px;
+    padding: 15px 0 0px;
+    color: #a2a5aa;
+    margin: 5px 0 0;
+    border: 1px solid #e8e8e8;
+}
+
+.box-detail .icons-wrap {
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+.box-detail .para-wrap {
+    float: left;
+    width: 80%;
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+
+.no-padding {
+    padding: 0;
+}
